@@ -1,0 +1,5 @@
+C:\GitHub\Codewars\7 kyu\Disemvowel Trolls\Disemvowel 7 kyu\Disemvowel 7 kyu\obj\Debug\net5.0\Disemvowel 7 kyu.csproj.AssemblyReference.cache
+C:\GitHub\Codewars\7 kyu\Disemvowel Trolls\Disemvowel 7 kyu\Disemvowel 7 kyu\obj\Debug\net5.0\Disemvowel 7 kyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Codewars\7 kyu\Disemvowel Trolls\Disemvowel 7 kyu\Disemvowel 7 kyu\obj\Debug\net5.0\Disemvowel 7 kyu.AssemblyInfoInputs.cache
+C:\GitHub\Codewars\7 kyu\Disemvowel Trolls\Disemvowel 7 kyu\Disemvowel 7 kyu\obj\Debug\net5.0\Disemvowel 7 kyu.AssemblyInfo.cs
+C:\GitHub\Codewars\7 kyu\Disemvowel Trolls\Disemvowel 7 kyu\Disemvowel 7 kyu\obj\Debug\net5.0\Disemvowel 7 kyu.csproj.CoreCompileInputs.cache

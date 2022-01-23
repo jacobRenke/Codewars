@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f94e422-5790-4450-9dff-c7ca10c3eb63": {
+      "ProjectGuid": "1f94e422-5790-4450-9dff-c7ca10c3eb63",
+      "DisplayName": "Isograms",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

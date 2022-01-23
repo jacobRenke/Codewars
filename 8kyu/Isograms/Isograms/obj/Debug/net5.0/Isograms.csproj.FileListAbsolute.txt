@@ -1,0 +1,5 @@
+C:\GitHub\Codewars\8kyu\Isograms\Isograms\obj\Debug\net5.0\Isograms.csproj.AssemblyReference.cache
+C:\GitHub\Codewars\8kyu\Isograms\Isograms\obj\Debug\net5.0\Isograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Codewars\8kyu\Isograms\Isograms\obj\Debug\net5.0\Isograms.AssemblyInfoInputs.cache
+C:\GitHub\Codewars\8kyu\Isograms\Isograms\obj\Debug\net5.0\Isograms.AssemblyInfo.cs
+C:\GitHub\Codewars\8kyu\Isograms\Isograms\obj\Debug\net5.0\Isograms.csproj.CoreCompileInputs.cache
