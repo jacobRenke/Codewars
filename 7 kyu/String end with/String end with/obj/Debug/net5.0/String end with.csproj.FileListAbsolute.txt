@@ -1,0 +1,16 @@
+C:\GitHub\Codewars\7 kyu\String end with\String end with\bin\Debug\net5.0\String end with.exe
+C:\GitHub\Codewars\7 kyu\String end with\String end with\bin\Debug\net5.0\String end with.deps.json
+C:\GitHub\Codewars\7 kyu\String end with\String end with\bin\Debug\net5.0\String end with.runtimeconfig.json
+C:\GitHub\Codewars\7 kyu\String end with\String end with\bin\Debug\net5.0\String end with.runtimeconfig.dev.json
+C:\GitHub\Codewars\7 kyu\String end with\String end with\bin\Debug\net5.0\String end with.dll
+C:\GitHub\Codewars\7 kyu\String end with\String end with\bin\Debug\net5.0\ref\String end with.dll
+C:\GitHub\Codewars\7 kyu\String end with\String end with\bin\Debug\net5.0\String end with.pdb
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.csproj.AssemblyReference.cache
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.AssemblyInfoInputs.cache
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.AssemblyInfo.cs
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.csproj.CoreCompileInputs.cache
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.dll
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\ref\String end with.dll
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.pdb
+C:\GitHub\Codewars\7 kyu\String end with\String end with\obj\Debug\net5.0\String end with.genruntimeconfig.cache

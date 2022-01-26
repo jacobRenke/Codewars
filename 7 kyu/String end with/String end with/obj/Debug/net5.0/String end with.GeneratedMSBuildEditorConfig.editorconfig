@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Reversed_Strings
-build_property.ProjectDir = c:\GitHub\Codewars\8kyu\Reversed Strings\Reversed Strings\
+build_property.RootNamespace = String_end_with
+build_property.ProjectDir = C:\GitHub\Codewars\7 kyu\String end with\String end with\
