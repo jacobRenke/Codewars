@@ -1,0 +1,16 @@
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.csproj.AssemblyReference.cache
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.AssemblyInfoInputs.cache
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.AssemblyInfo.cs
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.csproj.CoreCompileInputs.cache
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.exe
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.deps.json
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.runtimeconfig.json
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.runtimeconfig.dev.json
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.dll
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\bin\Debug\net5.0\ref\Highest Scoring Word.dll
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.pdb
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.dll
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\ref\Highest Scoring Word.dll
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.pdb
+C:\GitHub\Codewars\6 kyu\Highest Scoring Word\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.genruntimeconfig.cache
