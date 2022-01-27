@@ -1,0 +1,5 @@
+C:\GitHub\Codewars\7 kyu\Get The Middle Character\Get The Middle Character\obj\Debug\net5.0\Get The Middle Character.csproj.AssemblyReference.cache
+C:\GitHub\Codewars\7 kyu\Get The Middle Character\Get The Middle Character\obj\Debug\net5.0\Get The Middle Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Codewars\7 kyu\Get The Middle Character\Get The Middle Character\obj\Debug\net5.0\Get The Middle Character.AssemblyInfoInputs.cache
+C:\GitHub\Codewars\7 kyu\Get The Middle Character\Get The Middle Character\obj\Debug\net5.0\Get The Middle Character.AssemblyInfo.cs
+C:\GitHub\Codewars\7 kyu\Get The Middle Character\Get The Middle Character\obj\Debug\net5.0\Get The Middle Character.csproj.CoreCompileInputs.cache
