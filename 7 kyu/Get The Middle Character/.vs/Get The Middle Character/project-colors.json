@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd5f6b09-3fd6-4aaa-b610-530853cd2945": {
+      "ProjectGuid": "dd5f6b09-3fd6-4aaa-b610-530853cd2945",
+      "DisplayName": "Get The Middle Character",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
