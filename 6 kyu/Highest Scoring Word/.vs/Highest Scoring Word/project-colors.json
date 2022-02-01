@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "628c80fb-1dfe-469c-9e68-04283e44521f": {
+      "ProjectGuid": "628c80fb-1dfe-469c-9e68-04283e44521f",
+      "DisplayName": "Highest Scoring Word",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
