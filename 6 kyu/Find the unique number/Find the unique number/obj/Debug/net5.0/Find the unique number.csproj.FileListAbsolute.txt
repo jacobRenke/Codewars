@@ -1,0 +1,16 @@
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\bin\Debug\net5.0\Find the unique number.exe
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\bin\Debug\net5.0\Find the unique number.deps.json
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\bin\Debug\net5.0\Find the unique number.runtimeconfig.json
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\bin\Debug\net5.0\Find the unique number.runtimeconfig.dev.json
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\bin\Debug\net5.0\Find the unique number.dll
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\bin\Debug\net5.0\ref\Find the unique number.dll
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\bin\Debug\net5.0\Find the unique number.pdb
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.csproj.AssemblyReference.cache
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.AssemblyInfoInputs.cache
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.AssemblyInfo.cs
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.csproj.CoreCompileInputs.cache
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.dll
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\ref\Find the unique number.dll
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.pdb
+C:\GitHub\Codewars\6 kyu\Find the unique number\Find the unique number\obj\Debug\net5.0\Find the unique number.genruntimeconfig.cache

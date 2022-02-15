@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Find the unique number/1.0.0": {
+        "runtime": {
+          "Find the unique number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the unique number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
