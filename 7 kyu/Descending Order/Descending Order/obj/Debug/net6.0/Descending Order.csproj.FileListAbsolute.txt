@@ -1,0 +1,15 @@
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\bin\Debug\net6.0\Descending Order.exe
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\bin\Debug\net6.0\Descending Order.deps.json
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\bin\Debug\net6.0\Descending Order.runtimeconfig.json
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\bin\Debug\net6.0\Descending Order.dll
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\bin\Debug\net6.0\Descending Order.pdb
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.csproj.AssemblyReference.cache
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.AssemblyInfoInputs.cache
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.AssemblyInfo.cs
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.csproj.CoreCompileInputs.cache
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.dll
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\refint\Descending Order.dll
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.pdb
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\Descending Order.genruntimeconfig.cache
+C:\GitHub\Codewars\7 kyu\Descending Order\Descending Order\obj\Debug\net6.0\ref\Descending Order.dll

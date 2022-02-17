@@ -8,7 +8,7 @@ namespace Find_the_unique_number
     {
         static void Main(string[] args)
         {
-            IEnumerable<int> arr = new int[] { -2, 2, 2, 2 };
+            int[] arr = new int[] { 1, 2, 2, 2 };
             Console.WriteLine(GetUnique(arr));
         }
 
@@ -28,7 +28,7 @@ namespace Find_the_unique_number
                     }
                 }
             }
-            return answer;
+            return answer; 
         }
 
 
