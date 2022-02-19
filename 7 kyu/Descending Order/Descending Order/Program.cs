@@ -5,17 +5,12 @@ Console.WriteLine(DescendingOrder(num));
 
 static int DescendingOrder(int num)
 {
-    //var count = num.ToString().Length;
-    //string newNumber = num.ToString();
-    //char[] newNumberArr = newNumber.ToArray();
-    //newNumberArr.Reverse();
-    //Console.WriteLine(Convert.ToInt32(newNumberArr));
-
     string numString = num.ToString();
     char[] ch = numString.ToCharArray();
     Array.Sort(ch);
+    ch.OrderByDescending(x => x);
     Array.Reverse(ch);
     numString = new string(ch);
-    int result = Convert.ToInt32(numString );
+    int result = Convert.ToInt32(numString);
     return result;
 }
