@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Odd Numbers", "Sum of Odd Numbers\Sum of Odd Numbers.csproj", "{F7E5931B-50F7-4DBD-977B-F26BB3ABBDCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E5931B-50F7-4DBD-977B-F26BB3ABBDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E5931B-50F7-4DBD-977B-F26BB3ABBDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E5931B-50F7-4DBD-977B-F26BB3ABBDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E5931B-50F7-4DBD-977B-F26BB3ABBDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DEB45F-3596-4271-9FA8-4E2407BE109C}
+	EndGlobalSection
+EndGlobal
